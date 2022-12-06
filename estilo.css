@@ -13,3 +13,10 @@ p{
     width: 100px;
     height: 100px;
 }
+.seccion1{
+    background-color: rgb(218, 136, 136);
+    color: blue;
+    line-height: 300%;
+    font-size: large;
+
+}
