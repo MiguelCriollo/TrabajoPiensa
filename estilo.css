@@ -13,10 +13,21 @@ p{
     width: 100px;
     height: 100px;
 }
+
 .seccion1{
     background-color: rgb(218, 136, 136);
     color: blue;
     line-height: 300%;
     font-size: large;
 
+}
+
+.seccion2{
+    background-color: rgb(225, 241, 156);
+    color:darkblue
+}
+
+.primeraimagen{
+    width: 400px;
+    height: 200px;
 }
